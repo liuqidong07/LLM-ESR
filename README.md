@@ -43,3 +43,20 @@ bash experiments/beauty.bash
 ```
 
 2. The log and results will be saved in the folder `log/`. The checkpoint will be saved in the folder `saved/`.
+
+## Citation
+
+If the code and the paper are useful for you, it is appreciable to cite our paper:
+
+```
+@article{liu2024large,
+  title={Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item},
+  author={Liu, Qidong and Wu, Xian and Zhao, Xiangyu and Wang, Yejing and Zhang, Zijian and Tian, Feng and Zheng, Yefeng},
+  journal={arXiv preprint arXiv:2405.20646},
+  year={2024}
+}
+```
+
+## Thanks
+
+The code refers to the repo [SASRec](https://github.com/kang205/SASRec) and [RLMRec](https://github.com/HKUDS/RLMRec).
