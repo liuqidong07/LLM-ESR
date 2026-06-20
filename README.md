@@ -32,6 +32,9 @@ In conclusion, the prerequisite files to run the code are as follows: `inter.txt
 
 ⭐️ To ease the reproducibility of our paper, we also upload all preprocessed files to this [link](https://drive.google.com/file/d/1MpBUjCDLiFIEODTnopSCzDAnS8RzO9aV/view?usp=sharing).
 
+:star: If you'd like to preprocess the dataset by yourself, please refer to the code provided in [Issue 5](https://github.com/liuqidong07/LLM-ESR/issues/5#issuecomment-4752542002) by [@lollipopmark](https://github.com/lollipopmark).
+
+
 ## Run and test
 
 1. You can reproduce all LLM-ESR experiments by running the bash as follows:
@@ -60,3 +63,5 @@ If the code and the paper are useful for you, it is appreciable to cite our pape
 ## Thanks
 
 The code refers to the repo [SASRec](https://github.com/kang205/SASRec) and [RLMRec](https://github.com/HKUDS/RLMRec).
+
+Besides, express my sincere thanks to [@lollipopmark](https://github.com/lollipopmark) for efforts to restore the preprocessing codes!
